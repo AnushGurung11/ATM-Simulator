@@ -1,0 +1,7 @@
+
+/*
+Now
+ */
+
+public class Interface {
+}

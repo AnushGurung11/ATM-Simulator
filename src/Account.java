@@ -73,6 +73,7 @@ public class Account extends Person {
         setAccountNumber(accountNumber);
         setPin(pin);
         deposit(deposit);
+        System.out.println("Account has been created.");
     }
 
 }
